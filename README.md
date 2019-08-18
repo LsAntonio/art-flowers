@@ -2,7 +2,7 @@
 
 ## Introduction
 <p align = "justify"> 
-Generative Adversarial Networks (GAN’s) are powerful models, which allow us to learn data distributions. Thus, allowing us to generate new data. This is achieved in a competitive fashion, were a generator tries to fools a discriminator. In each epoch, both models become better at learning. In this dynamic, the generator, creates more realistic data, which is more close to the real data distribution. Meanwhile, the discriminator gets better at distinguishing the real data from the fake ones created by the generator. The training will conclude when an equilibrium point is achieved. Where, neither generator or discriminator can improve. In this repository, a GAN model is used to generate artistic flower images. The project was mainly developed in pytorch.
+Generative Adversarial Networks (GAN’s) are powerful models, which allow us to learn data distributions. Thus, allowing us to generate new data. This is achieved in a competitive fashion, were a generator tries to fools a discriminator. In each epoch, both models become better at learning. In this dynamic, the generator, creates more realistic data, which is more close to the real data distribution. Meanwhile, the discriminator gets better at distinguishing the real data from the fake ones created by the generator. The training will conclude when an equilibrium point is achieved. Where, neither generator or discriminator can improve. In this repository, a GAN model is used to generate painting flower images. The project was mainly developed in pytorch.
 </p>
 
 ## Installation
